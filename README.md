@@ -1,5 +1,5 @@
 # PlatformerPractice
-Practice project making a simple 2d platformer in the Godot Engine
+Practice project making a simple 2d platformer in the Godot Engine. Progress would probably be very slow because of my exams.
 
 
 ### Progress 🚧
