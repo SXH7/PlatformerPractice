@@ -9,6 +9,6 @@ Practice project making a simple 2d platformer in the Godot Engine. Progress wou
 ### To Do 📝
 ✅ Add movement controls </br>
 ✅ Add a jump mechanic </br>
-⬜ Add enemies
-⬜ Add a stomping mechanic
+⬜ Add enemies </br>
+⬜ Add a stomping mechanic </br>
 ⬜ Create a proper level </br>
